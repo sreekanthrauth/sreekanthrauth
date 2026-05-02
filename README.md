@@ -18,7 +18,3 @@
 
 * LinkedIn: https://www.linkedin.com/in/sreekanthrauth/
 * GitHub: https://github.com/sreekanthrauth
-
----
-
-## ⚡ Fun Fact I’m turning my curiosity about blockchain into real-world projects 🚀
