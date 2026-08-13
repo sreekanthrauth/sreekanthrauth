@@ -1,7 +1,7 @@
 # Hi 👋 I'm Sreekanth Rauth
 
-🚀 Blockchain Full-Stack Developer (in progress)
-💻 Solidity | React | Node.js | JavaScript | Rust
+🚀 Blockchain Full-Stack Developer
+💻 Solidity | React | Node.js | Express.js | JavaScript | Solidity | Rust
 🌐 Web3 • DeFi • NFTs • Smart Contracts
 
 ---
