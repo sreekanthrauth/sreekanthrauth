@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sreekanth Rauth
+# Hi 👋 I'm Sreekanth DR
 
 🚀 Blockchain Full-Stack Developer
 💻 Solidity | React | Node.js | Express.js | JavaScript | Solidity | Rust
